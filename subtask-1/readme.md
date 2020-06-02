@@ -25,7 +25,7 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
 GPU ： Nvidia GeforceRTX2070 with Max-Q design
 
-epoch = 15        batch_size = 256
+epoch = 15        batch_size = 256 
 
 
 
