@@ -16,7 +16,8 @@ Subtask 1 为 简单的文本分类项目
 
 源代码：  train.py
 
-
+要运行这个项目，需要下载GoogleNews的Word2Vec模型，解压并放在该目录下：
+https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 
 运行结果：
 
