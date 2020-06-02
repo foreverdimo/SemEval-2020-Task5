@@ -42,6 +42,10 @@
 
 ## 运行项目
 
+要运行这个项目，如果使用预训练Bert，则需要下载预训练模型，解压后放在data目录下：
+
+https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
+
 安装项目所需的库后，命令行运行 train.py 或者 jupyter notebook 运行 ipynb文件即可
 
 ## 运行结果和分析
